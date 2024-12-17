@@ -1,16 +1,25 @@
-## Hi there 👋
+## Guidance
 
-<!--
-**kitadai31/kitadai31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- ReVanced related
+  - YouTube ReVanced for Android 6-7 (ReVanced Patches)  
+  https://github.com/kitadai31/revanced-patches-android6-7
+  - ReVanced Manager fork for this  
+  https://github.com/kitadai31/revanced-manager-android5-7
+  - ReVanced Integtrations for this  
+  https://github.com/kitadai31/revanced-integrations
+  - ReVanced CLI fork for this
+  https://github.com/kitadai31/revanced-cli
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- AdGuard related
+  - AdGuard DNS Filters without privacy filters
+  https://github.com/kitadai31/AdGuardSDNSFilter_withoutPrivacyFilters
+    - A better DNS filter for AdGuard apps
+   
+- 2chMate related
+  - (dead)
+ 
+- Xposed related
+  - (preparing...)
+   
+# Contact (お問い合わせ)
+Please use the Google form in the profile section.
