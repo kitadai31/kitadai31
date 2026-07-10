@@ -2,6 +2,10 @@ I mainly contribute to Morphe (ReVanced) including piko.
 
 I began contributing to ReVanced/Morphe after creating an RVX fork called "YouTube ReVanced for Android 6-7" in 2023.
 
+Also, I'm publishing a DNS filter for AdGuard app, "Without Privacy Filters". This allows us to cooperate with traffic analysis for website operators.
+
+My favorite words are "Free", "Libre", and "Open" !
+
 Contact: https://forms.gle/JsTAzTQRt6NjB5hf6
 
 ## Japanese
@@ -15,6 +19,8 @@ Adnroid三種の神器 (AdGuard、Morphe、ChMate) が好きです。
 また、AdGuard関係では、AdGuard向けのDNSフィルタ「プライバシー抜き」を公開しています。
 
 ChMate、5ch関連にも興味があります。
+
+好きな言葉は「Free」「Libre」「Open」です。
 
 5chのトリップ: ◆.VukItaCHaNN  
 問い合わせフォーム: https://forms.gle/JsTAzTQRt6NjB5hf6
